@@ -1,1 +1,2 @@
-# c21-library-final
+# collisionAlgorithm
+Algorithm to detect collision between two objects
